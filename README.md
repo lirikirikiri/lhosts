@@ -1,2 +1,2 @@
 # lhosts
-A adblock hosts
+#A adblock hosts
